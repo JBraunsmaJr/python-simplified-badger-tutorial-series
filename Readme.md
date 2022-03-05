@@ -1,1 +1,8 @@
-[March 05 2022 Notes](March-05-2022_UserInputMadness_Beginning/notes.md)
+Welcome to our tutorial series! Each week we will stream various topics related to programming. 
+
+Starting after March 05 2022, the appropriate starter code and notes will be available before starting. This will allow you to follow along as we go, or follow along at your own pace!
+
+----
+
+# Table of Contents
+- [March 05 2022 Notes (User Input -Pt. 1)](March-05-2022_UserInputMadness_Beginning/notes.md)

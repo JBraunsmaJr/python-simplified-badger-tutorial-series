@@ -65,6 +65,7 @@ Create file
 ```python
 with open("test.txt", "x") as file:
     file.write("\n".join(["shield", "bow", "health potion"]))
+    file.write('\n')
 ```
 
 Contents of `test.txt` after
@@ -78,6 +79,7 @@ Append file
 ```python
 with open("test.txt", "a") as file:
     file.write("\n".join(["boots", "helmet"]))
+    file.write('\n')
 ```
 
 Contents of `test.txt` after

@@ -139,7 +139,7 @@ def ingest_market(filepath: str) -> list:
                 
             yield current_line.strip().split(',')
 
-for item in ingest_market("example.csv", "r"):
+for item in ingest_market("example.csv"):
     print(f"We have {item[1]} of {item[0]} in stock!")
 ```
 

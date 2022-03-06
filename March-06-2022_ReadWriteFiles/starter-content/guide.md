@@ -143,4 +143,4 @@ for item in ingest_market("example.csv"):
     print(f"We have {item[1]} of {item[0]} in stock!")
 ```
 
-We get the benefit of sanitizing and reading data in one method while actually consuming it and doing something with in another! All without going over the SAME content again and again!!!!!!!!! Awesome isn't it?
+We get the benefit of sanitizing and reading data in one method while actually consuming it and doing something with in another! All without going over the SAME content again and again!!!!!!!!! Awesome isn't it? This means as data becomes available we can act upon it!

@@ -6,3 +6,4 @@ Starting after March 05 2022, the appropriate starter code and notes will be ava
 
 # Table of Contents
 - [March 05 2022 Notes (User Input -Pt. 1)](March-05-2022_UserInputMadness_Beginning/notes.md)
+- [March 06 2022 Notes (Read/Write Files + Yield)](March-06-2022_ReadWriteFiles/starter-content/guide.md)

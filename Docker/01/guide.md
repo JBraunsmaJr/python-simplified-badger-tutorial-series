@@ -175,3 +175,6 @@ volumes:
 
 By using the `depends_on` key we can provide 1 or many services which `flask-test-container` needs in order to start! This example will start the `mongodb` container first
 and then `flask-test-container`.
+
+If you're using sql-alchemy in python you would require the database to be ready/online. This is one approach to ensuring your DB is online so you can perform the necessary migrations
+for your application.

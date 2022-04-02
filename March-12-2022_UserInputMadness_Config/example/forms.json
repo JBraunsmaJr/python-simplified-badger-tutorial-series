@@ -1,0 +1,21 @@
+{
+  "user-registration": {
+     "fields": {
+      "username": {
+        "message": "Please provide a valid username.",
+        "type": "text",
+        "predicate": {
+          "maxLength": 25
+        }
+      },
+      "age": {
+        "type": "int",
+        "message": "How old are you?",
+        "predicate": {
+          "min": "1",
+          "max": "130"
+        }
+      }
+    }
+  }
+}

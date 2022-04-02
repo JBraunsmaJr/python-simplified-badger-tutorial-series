@@ -2,7 +2,7 @@
 The best way I can think of to showcase OOP is videogames! For this example we'll utilize
 PyGame to create something extremely simple!
 
-![game](./images/end_result.png)
+![game](images/end_result.png)
 
 ```bash
 pip install pygame

@@ -25,7 +25,7 @@ WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 1000
 ```
 
-If you noticed, our variable names are all upper-case. This is to help differentiate them from
+If you noticed, our config variable names are all upper-case. This is to help differentiate them from
 typical variables.
 
 ## Folder Structure

@@ -11,6 +11,7 @@ Starting after March 05 2022, the appropriate starter code and notes will be ava
 
 # OOP
 - [Multi-Inheritance](OOP/OOP_01/guide.md)
+- [Terrain Generator](OOP/OOP_02/docs/overview.md)
 
 # Docker
 - [Docker Basic](Docker/01/guide.md)

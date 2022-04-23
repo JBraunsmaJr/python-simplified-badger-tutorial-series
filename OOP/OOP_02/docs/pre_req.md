@@ -1,16 +1,18 @@
 # Environment
 
-## Pycharm
-If you're using Pycharm you can skip this and move to [Next Section](ui_ui_element.md)
-
-## Other IDE
-We need to create a virtual environment for our project
+## Prerequisites
 
 The `noise` module used in our application requires the following:
 [Visual CPP Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
 If you do NOT install the build tools the noise module will fail to install. Thus, this
 project will not work.
+
+## Pycharm
+If you're using Pycharm you can skip this and move to [Next Section](ui_ui_element.md)
+
+## Other IDE
+We need to create a virtual environment for our project
 
 A virtual environment makes it easy to use different versions of modules between
 projects as well as easy to share with other devs!

@@ -24,7 +24,7 @@ FROM python:latest
 FROM python:3.8
 ```
 
-Anyhow, lets start building our docker file to host our basic flask application! Instead of the `starter` folder create a new file called `dockerfile`. That's it... no extension
+Anyhow, lets start building our docker file to host our basic flask application! Inside of the `starter` folder create a new file called `dockerfile`. That's it... no extension
 
 ```dockerfile
 FROM python

@@ -42,7 +42,7 @@ def div(a: int, b: int) -> int:
     return a / b
 
 
-add(100, 2)
-sub(100, 2)
-mul(100, 2)
-div(100, 2)
+print(add(100, 2))
+print(sub(100, 2))
+print(mul(100, 2))
+print(div(100, 2))

@@ -48,7 +48,8 @@ def validate_annotations(func):
 
         return result
     return wrapper_func
-
+    
+@validate_annotations
 def add(a: int, b: int) -> int:
     return a + b
 
